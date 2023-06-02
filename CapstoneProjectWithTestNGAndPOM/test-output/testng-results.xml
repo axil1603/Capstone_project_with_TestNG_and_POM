@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-31T14:49:20 EDT" name="Suite" finished-at="2023-05-31T14:49:36 EDT" duration-ms="16044">
+    <groups>
+    </groups>
+    <test started-at="2023-05-31T14:49:20 EDT" name="Test" finished-at="2023-05-31T14:49:36 EDT" duration-ms="16044">
+      <class name="com.saucedemo.testscripts.VerifyLockedOutUserErrorMessageTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.saucedemo.testscripts.VerifyLockedOutUserErrorMessageTest@6b88ca8c]" started-at="2023-05-31T14:49:34 EDT" name="launchApplication" finished-at="2023-05-31T14:49:35 EDT" duration-ms="1734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="VerifyLockedOutUserMessage()[pri:0, instance:com.saucedemo.testscripts.VerifyLockedOutUserErrorMessageTest@6b88ca8c]" started-at="2023-05-31T14:49:35 EDT" name="VerifyLockedOutUserMessage" finished-at="2023-05-31T14:49:36 EDT" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLockedOutUserMessage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.saucedemo.testscripts.VerifyLockedOutUserErrorMessageTest@6b88ca8c]" started-at="2023-05-31T14:49:36 EDT" name="closeBrowser" finished-at="2023-05-31T14:49:36 EDT" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.saucedemo.testscripts.VerifyLockedOutUserErrorMessageTest -->
+      <class name="com.saucedemo.testscripts.VerifyLastNameErrorMessageTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.saucedemo.testscripts.VerifyLastNameErrorMessageTest@1a20270e]" started-at="2023-05-31T14:49:31 EDT" name="launchApplication" finished-at="2023-05-31T14:49:33 EDT" duration-ms="1781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="VerifyLastNameErrorMessage()[pri:0, instance:com.saucedemo.testscripts.VerifyLastNameErrorMessageTest@1a20270e]" started-at="2023-05-31T14:49:33 EDT" name="VerifyLastNameErrorMessage" finished-at="2023-05-31T14:49:33 EDT" duration-ms="792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLastNameErrorMessage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.saucedemo.testscripts.VerifyLastNameErrorMessageTest@1a20270e]" started-at="2023-05-31T14:49:33 EDT" name="closeBrowser" finished-at="2023-05-31T14:49:34 EDT" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.saucedemo.testscripts.VerifyLastNameErrorMessageTest -->
+      <class name="com.saucedemo.testscripts.BuyCheapestProductTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.saucedemo.testscripts.BuyCheapestProductTest@4426bff1]" started-at="2023-05-31T14:49:20 EDT" name="launchApplication" finished-at="2023-05-31T14:49:23 EDT" duration-ms="3083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="BuyCheapestProduct()[pri:0, instance:com.saucedemo.testscripts.BuyCheapestProductTest@4426bff1]" started-at="2023-05-31T14:49:23 EDT" name="BuyCheapestProduct" finished-at="2023-05-31T14:49:24 EDT" duration-ms="1079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuyCheapestProduct -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.saucedemo.testscripts.BuyCheapestProductTest@4426bff1]" started-at="2023-05-31T14:49:24 EDT" name="closeBrowser" finished-at="2023-05-31T14:49:24 EDT" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.saucedemo.testscripts.BuyCheapestProductTest -->
+      <class name="com.saucedemo.testscripts.BuyFirstTwoProductsTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.saucedemo.testscripts.BuyFirstTwoProductsTest@3c7c886c]" started-at="2023-05-31T14:49:24 EDT" name="launchApplication" finished-at="2023-05-31T14:49:26 EDT" duration-ms="1734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="BuyFirstTwoProducts()[pri:0, instance:com.saucedemo.testscripts.BuyFirstTwoProductsTest@3c7c886c]" started-at="2023-05-31T14:49:26 EDT" name="BuyFirstTwoProducts" finished-at="2023-05-31T14:49:27 EDT" duration-ms="881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuyFirstTwoProducts -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.saucedemo.testscripts.BuyFirstTwoProductsTest@3c7c886c]" started-at="2023-05-31T14:49:27 EDT" name="closeBrowser" finished-at="2023-05-31T14:49:27 EDT" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.saucedemo.testscripts.BuyFirstTwoProductsTest -->
+      <class name="com.saucedemo.testscripts.BuyMostExpensiveAndThirdProductsTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.saucedemo.testscripts.BuyMostExpensiveAndThirdProductsTest@55493582]" started-at="2023-05-31T14:49:27 EDT" name="launchApplication" finished-at="2023-05-31T14:49:29 EDT" duration-ms="1728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="BuyMostExpensiveAndThirdProducts()[pri:0, instance:com.saucedemo.testscripts.BuyMostExpensiveAndThirdProductsTest@55493582]" started-at="2023-05-31T14:49:29 EDT" name="BuyMostExpensiveAndThirdProducts" finished-at="2023-05-31T14:49:30 EDT" duration-ms="1278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuyMostExpensiveAndThirdProducts -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.saucedemo.testscripts.BuyMostExpensiveAndThirdProductsTest@55493582]" started-at="2023-05-31T14:49:30 EDT" name="closeBrowser" finished-at="2023-05-31T14:49:31 EDT" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.saucedemo.testscripts.BuyMostExpensiveAndThirdProductsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
